@@ -1,2 +1,3 @@
 # Feynman Lecture on Physics II
 
+[[files:./ref/p2.png]]
