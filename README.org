@@ -1,4 +1,4 @@
-# Feynman Lecture on Physics II
+* Feynman Lecture on Physics II
 
 
 [[file:./ref/p2.png]]
